@@ -1,0 +1,11 @@
+<map id="INextionColourable" name="INextionColourable">
+<area shape="rect" id="node3" href="$classNextionButton.html" title="Represents a basic button widget. " alt="" coords="375,5,481,32"/>
+<area shape="rect" id="node4" href="$classNextionDualStateButton.html" title="Represents a dual state button widget. " alt="" coords="347,56,509,83"/>
+<area shape="rect" id="node5" href="$classNextionGauge.html" title="Represents a gauge widget/. " alt="" coords="375,107,481,133"/>
+<area shape="rect" id="node6" href="$classNextionNumber.html" title="Represents a number widget. " alt="" coords="371,157,485,184"/>
+<area shape="rect" id="node7" href="$classNextionProgressBar.html" title="Represents a progress bar widget. " alt="" coords="359,208,497,235"/>
+<area shape="rect" id="node8" href="$classNextionSlider.html" title="Represents a slider widget. " alt="" coords="378,259,478,285"/>
+<area shape="rect" id="node9" href="$classNextionText.html" title="Represents a text widget. " alt="" coords="381,309,475,336"/>
+<area shape="rect" id="node10" href="$classNextionWaveform.html" title="Represents a waveform widget. " alt="" coords="365,360,491,387"/>
+<area shape="rect" id="node2" href="$classINextionWidget.html" title="Abstract class for all UI widgets. " alt="" coords="5,183,117,209"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="INextionNumericalValued" name="INextionNumericalValued">
+<area shape="rect" id="node3" href="$classNextionDualStateButton.html" title="Represents a dual state button widget. " alt="" coords="384,5,547,32"/>
+<area shape="rect" id="node4" href="$classNextionGauge.html" title="Represents a gauge widget/. " alt="" coords="413,56,518,83"/>
+<area shape="rect" id="node5" href="$classNextionNumber.html" title="Represents a number widget. " alt="" coords="409,107,522,133"/>
+<area shape="rect" id="node6" href="$classNextionProgressBar.html" title="Represents a progress bar widget. " alt="" coords="396,157,535,184"/>
+<area shape="rect" id="node7" href="$classNextionSlider.html" title="Represents a slider widget. " alt="" coords="415,208,515,235"/>
+<area shape="rect" id="node8" href="$classNextionVariableNumeric.html" title="Represents a numeric variable. " alt="" coords="384,259,547,285"/>
+<area shape="rect" id="node2" href="$classINextionWidget.html" title="Abstract class for all UI widgets. " alt="" coords="5,132,117,159"/>
+</map>
